@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Business-Tech/static/css/main.563c7a92.chunk.css",
+    "main.js": "/Business-Tech/static/js/main.217141d3.chunk.js",
+    "main.js.map": "/Business-Tech/static/js/main.217141d3.chunk.js.map",
+    "runtime-main.js": "/Business-Tech/static/js/runtime-main.9e1323dd.js",
+    "runtime-main.js.map": "/Business-Tech/static/js/runtime-main.9e1323dd.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/Business-Tech/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.fb06489a.chunk.js": "/Business-Tech/static/js/2.fb06489a.chunk.js",
+    "static/js/2.fb06489a.chunk.js.map": "/Business-Tech/static/js/2.fb06489a.chunk.js.map",
+    "index.html": "/Business-Tech/index.html",
+    "precache-manifest.0a26996a1786e0dbe5e8e8b156c00622.js": "/Business-Tech/precache-manifest.0a26996a1786e0dbe5e8e8b156c00622.js",
+    "service-worker.js": "/Business-Tech/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/Business-Tech/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.563c7a92.chunk.css.map": "/Business-Tech/static/css/main.563c7a92.chunk.css.map",
+    "static/js/2.fb06489a.chunk.js.LICENSE.txt": "/Business-Tech/static/js/2.fb06489a.chunk.js.LICENSE.txt",
+    "static/media/Abt.jpg": "/Business-Tech/static/media/Abt.fe82dc93.jpg",
+    "static/media/Android.jpg": "/Business-Tech/static/media/Android.81d563a8.jpg",
+    "static/media/App.jpg": "/Business-Tech/static/media/App.ce0de232.jpg",
+    "static/media/Dig.jpg": "/Business-Tech/static/media/Dig.fe34ba39.jpg",
+    "static/media/Onl.jpg": "/Business-Tech/static/media/Onl.38cbea4e.jpg",
+    "static/media/Soft.jpg": "/Business-Tech/static/media/Soft.239fb326.jpg",
+    "static/media/Web.jpg": "/Business-Tech/static/media/Web.3592a833.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e1323dd.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.fb06489a.chunk.js",
+    "static/css/main.563c7a92.chunk.css",
+    "static/js/main.217141d3.chunk.js"
+  ]
+}
